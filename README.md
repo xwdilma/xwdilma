@@ -69,6 +69,7 @@ No momento não possuo nenhum projeto publico!
 <h2 align="center">Entre em Contato:</h2>
 
 <p align="center">
+  Numero: 21 97234-0019
   📧 Email: xwdilma@gmail.com
 </p>
 
