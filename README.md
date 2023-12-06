@@ -1,27 +1,23 @@
-<!-- Capa do Perfil -->
 <p align="center">
   <img src="https://github.com/xwdilma/xwdilma/raw/main/assets/github-profile-cover.gif" alt="Capa do Perfil" width="100%">
 </p>
 
-<!-- Informações Pessoais -->
 <h1 align="center">Olá, sou conhecido por Dilma 👋</h1>
 
 <p align="center">
-  🔥 Desenvolvedor Poliglota
+  🔥 Desenvolvedor Iniciante Poliglota
 </p>
 
-<!-- Sobre Mim -->
 <h2 align="center">Sobre mim:</h2>
 
 <p align="center">
-  Olá! Sou um desenvolvedor poliglota apaixonado por tecnologia, tenho maior experiencia em javascript, python, css e html, embora também sei programar outras linguagens. Minha paixão é criar projetos incríveis e explorar novas tecnologias para transformar ideias em realidade.
+  Sou um desenvolvedor iniciante poliglota apaixonado por programar 😍, tenho maior experiencia em javascript, python, css e html, embora também sei programar um pouco outras linguagens.
 </p>
 
 <p align="center">
-  💼 Atualmente, trabalho em projetos variados, desde aplicativos web a soluções de aprendizado de máquina.
+  💼 Atualmente, trabalho em projetos variados, desde aplicativos web a bots do discord.
 </p>
 
-<!-- Habilidades de Codificação -->
 <h2 align="center">Habilidades de Codificação:</h2>
 
 <p align="center">
@@ -36,8 +32,6 @@
   <img src="https://img.icons8.com/color/48/000000/database-restore.png" alt="SQL" title="SQL">
 </p>
 
-<!-- Habilidades de Banco de Dados -->
-<!-- Habilidades de Banco de Dados -->
 <h2 align="center">Habilidades de Banco de Dados:</h2>
 
 <p align="center">
@@ -65,7 +59,6 @@
 No momento não possuo nenhum projeto publico! 
 
 
-<!-- Informações de Contato -->
 <h2 align="center">Entre em Contato:</h2>
 
 <p align="center">
