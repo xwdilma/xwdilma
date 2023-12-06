@@ -5,13 +5,14 @@
 <h1 align="center">Olá, sou conhecido por Dilma 👋</h1>
 
 <p align="center">
-  🔥 Desenvolvedor Iniciante Poliglota
+  🔥 Desenvolvedor intermediário Poliglota
 </p>
 
 <h2 align="center">Sobre mim:</h2>
 
 <p align="center">
-  Sou um desenvolvedor iniciante poliglota apaixonado por programar 😍, tenho maior experiencia em javascript, python, css e html, embora também sei programar um pouco outras linguagens.
+  Sou um desenvolvedor intermediário poliglota apaixonado por programar 😍, tenho maior experiencia em javascript, python, css e html.
+  O restante abaixo, eu estou em processo de aprendizado, mas sei programar um pouco.
 </p>
 
 <p align="center">
