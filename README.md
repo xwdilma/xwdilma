@@ -11,12 +11,8 @@
 <h2 align="center">Sobre mim:</h2>
 
 <p align="center">
-  Sou um desenvolvedor intermediário poliglota apaixonado por programar 😍, tenho maior experiencia em javascript, python, css e html.
+  Sou um desenvolvedor intermediário poliglota apaixonado por programar, tenho maior experiencia em javascript, python, css e html.
   O restante abaixo, eu estou em processo de aprendizado, mas sei programar um pouco.
-</p>
-
-<p align="center">
-  💼 Atualmente, trabalho em projetos variados, desde aplicativos web a bots do discord.
 </p>
 
 <h2 align="center">Habilidades de Codificação:</h2>
@@ -48,7 +44,6 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git">
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="Amazon Web Services" title="AWS">
 </p>
 
 
