@@ -12,7 +12,6 @@
 
 <p align="center">
   Sou um desenvolvedor iniciante, apaixonado por programar, tenho maior experiencia em Javascript e Html, embora eu também saiba o básico de Css e Python.
-  O restante abaixo, eu estou em processo de aprendizado, mas sei programar um pouco.
 </p>
 
 <h2 align="center">Habilidades de Codificação:</h2>
