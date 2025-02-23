@@ -11,7 +11,7 @@
 <h2 align="center">Sobre mim:</h2>
 
 <p align="center">
-  Sou um desenvolvedor intermediário poliglota apaixonado por programar, tenho maior experiencia em javascript, python, css e html.
+  Sou um desenvolvedor intermediário (um pouco iniciante, mas também, bastante avançado para ser um iniciante.) apaixonado por programar, tenho maior experiencia em Javascript e Html, embora eu também saiba o básico de Css e Python.
   O restante abaixo, eu estou em processo de aprendizado, mas sei programar um pouco.
 </p>
 
@@ -22,8 +22,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java">
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js">
 </p>
 
@@ -44,6 +42,7 @@ No momento não possuo nenhum projeto publico!
 
 <p align="center">
   Numero: 21 97234-0019
+  Email: hsousaa9@gmail.com
   📧 Email: xwdilma@gmail.com
 </p>
 
