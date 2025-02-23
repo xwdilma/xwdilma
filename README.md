@@ -49,5 +49,4 @@ No momento não possuo nenhum projeto publico!
 
 <p align="center">
   Obrigado por visitar o meu perfil!
- OBS: está horroso, ainda vou melhorar mais o perfil.
 </p>
