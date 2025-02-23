@@ -5,13 +5,13 @@
 <h1 align="center">Olá, meu nome é Hugo 👋</h1>
 
 <p align="center">
-  🔥 Desenvolvedor intermediário Poliglota
+  🔥 Desenvolvedor iniciante Poliglota
 </p>
 
 <h2 align="center">Sobre mim:</h2>
 
 <p align="center">
-  Sou um desenvolvedor intermediário (um pouco iniciante, mas também, bastante avançado para ser um iniciante.) apaixonado por programar, tenho maior experiencia em Javascript e Html, embora eu também saiba o básico de Css e Python.
+  Sou um desenvolvedor iniciante, apaixonado por programar, tenho maior experiencia em Javascript e Html, embora eu também saiba o básico de Css e Python.
   O restante abaixo, eu estou em processo de aprendizado, mas sei programar um pouco.
 </p>
 
