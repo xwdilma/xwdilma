@@ -2,7 +2,7 @@
   <img src="https://github.com/xwdilma/xwdilma/raw/main/assets/github-profile-cover.gif" alt="Capa do Perfil" width="100%">
 </p>
 
-<h1 align="center">Olá, sou conhecido por Dilma 👋</h1>
+<h1 align="center">Olá, meu nome é Hugo 👋</h1>
 
 <p align="center">
   🔥 Desenvolvedor intermediário Poliglota
